@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aka_aadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aka_aadi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaditya r narayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya r narayan" height="30" width="40" /></a>
-<a href="https://instagram.com/aka_aadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aka_aadi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aaditya r narayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaditya r narayan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aadityarnarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityarnarayan" height="30" width="40" /></a>
+<a href="https://instagram.com/a.k.a_aadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.k.a_aadi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCctuYrPMw9E55YQ4qTeQL1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aadityarnarayan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aaditya.r.narayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aaditya.r.narayan" height="30" width="40" /></a>
 </p>
 
