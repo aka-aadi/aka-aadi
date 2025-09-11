@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="center">Undergraduate in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM</h5>
+<h3 align="center">Undergraduate in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM</h3>
 
 ###
 
@@ -89,15 +89,19 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
