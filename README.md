@@ -100,11 +100,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/aka-aadi/aka-aadi/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aka-aadi&theme=dracula&hide_border=true&radius=10" alt="GitHub Activity Graph" />
 </div>
