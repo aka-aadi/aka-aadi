@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Undergraduate in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM</h3>
+<h3 align="center">Graduate in Electronics and Computer Engineering from AMRITA VISHWA VIDYAPEETHAM</h3>
 
 ###
 
